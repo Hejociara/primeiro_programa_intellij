@@ -1,3 +1,0 @@
-### Atalhos
-
-alt + insert em cima da pasta do src dentro da IDE intellij = abre opções para acrescentar class, package, etc.
