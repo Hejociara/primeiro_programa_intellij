@@ -13,6 +13,9 @@ public class Gato {
         this.idade = idade;
     }
 
+    public Gato() {
+    }
+
     public String getNome() {
         return nome;
     }
